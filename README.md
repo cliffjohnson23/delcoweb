@@ -8,4 +8,4 @@ Cliff Johnson - 4 code samples:
 	3 billingDetails.js -  This process sends a user id using AJAX and jQuery and looks for a card number to be
 		returned. 
 	4 getNumber.php - to populate a credit card number to the users screen the encrypted number is
-		retrieved from MySQL, decrypted, and then packed up as JSON and sent to the users computer.
+		retrieved from MySQL, decrypted, and then packed up as JSON and sent to the users device.
