@@ -1,5 +1,5 @@
 Cliff Johnson: 4 code samples
-Cliff Johnson: 4 code samples
+
 	1 addCart.js - this dynamically builds a shopping cart with jQuery with the show(), other functions
 	add to the cart and change the number of items in cart display.
 	
