@@ -1,5 +1,5 @@
 Cliff Johnson: 4 code samples
-	1 addCart.js - this dynamically builds a shopping cart with jQuery with the show(), other functions /n
+	1 addCart.js - this dynamically builds a shopping cart with jQuery with the show(), other functions /nl
 		add to the cart and change the number of items in cart display.
 	2 checkDates.php - this runs nightly from a cron job.  It checks the database for signup date is in date range
 		sends anyone of 3 different notices to the user.  It also processes the scheduled payment with the financial
